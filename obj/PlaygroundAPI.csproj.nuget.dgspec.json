@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\Learn\\Training Projects\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj": {}
+    "E:\\repos\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj": {}
   },
   "projects": {
-    "C:\\work\\Learn\\Training Projects\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj": {
+    "E:\\repos\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\Learn\\Training Projects\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj",
+        "projectUniqueName": "E:\\repos\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj",
         "projectName": "PlaygroundAPI",
-        "projectPath": "C:\\work\\Learn\\Training Projects\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj",
-        "packagesPath": "C:\\Users\\cristian.apostol\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\Learn\\Training Projects\\Playground\\PlaygroundAPI\\obj\\",
+        "projectPath": "E:\\repos\\Playground\\PlaygroundAPI\\PlaygroundAPI.csproj",
+        "packagesPath": "C:\\Users\\Alin-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\Playground\\PlaygroundAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cristian.apostol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alin-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
